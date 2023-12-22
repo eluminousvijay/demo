@@ -12,9 +12,9 @@ const HeroBanner = ({heroBanner}) => {
         <div>
             <p className='beats-solo'> “I would rather be on my farm than be emperor of the world.”</p>
             {/* <h3>{heroBanner.midText}</h3> */}
-            <h3>xyz</h3>
+            <h3>Plants Make</h3>
             {/* <h1>{heroBanner.largeText1}</h1> */}
-            <h1>pqr</h1>
+            <h1>People Happy.</h1>
             <img src={img} alt='headphones' className='hero-banner-image'></img>
 
             <div>
